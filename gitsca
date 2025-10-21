@@ -1,0 +1,2 @@
+git add .buildpacks
+git commit -m "Setup .buildpacks for using multiple buildpacks on Scalingo"
